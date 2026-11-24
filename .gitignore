@@ -1,0 +1,14 @@
+﻿# 编译产物
+*.exe
+*.o
+*.obj
+*.out
+
+# IDE / 编辑器
+.vs/
+.vscode/
+*.user
+
+# 临时文件
+*.tmp
+*.log
